@@ -22,9 +22,6 @@ Here are some of my projects:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-smith-240720224/)
 <br>
 [![website](https://img.shields.io/badge/Portfolio-Website-orange)](https://marcsmithr.github.io./)
-
-
-[wellfound](https://angel.co/u/marc-smith-24)
     
 
 
