@@ -1,10 +1,10 @@
-### Welcome to my profile
+# 👋 Hi, I’m Marc Smith
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&size=30&color=            957DAD&center=true&vCenter=true&width=475&lines=Full+Stack+Web+Developer;Software+Development+Engineer;Marc+Smith" "alt="Typing SVG" /></a>
 </p>
 
-I am a full-stack software developer with experience with Javascript, Python, Node, Flask, React, Redux, and Git.
+I am a full-stack software developer with experience with Javascript, Python, Node, Flask, React, Redux, Git, and more.
 
 I was previously working in the education field, with a strong passion for language, cross-cultural understanding, and effective learning strategies. I graduated from App Academy, an intensive software engineering program to pivot into an exciting career in technology.
 
