@@ -20,6 +20,9 @@ Here are some of my projects:
 [wellfound](https://angel.co/u/marc-smith-24)
 
 
+Tech Stack:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 <!--
 **marcsmithr/marcsmithr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
