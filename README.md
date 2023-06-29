@@ -8,7 +8,7 @@ I am a full-stack software developer with experience with Javascript, Python, No
 
 I was previously working in the education field, with a strong passion for language, cross-cultural understanding, and effective learning strategies. I graduated from App Academy, an intensive software engineering program to pivot into an exciting career in technology.
 
-I am interested in linguistics and speak three non-promgramming languages. I also have a whole suite of geeky interests and hobbies including, TTRPGs (I am a forever DM), MTG, video games, and Warhammer 40k. I love fantasy and world building. If you want to swap dnd stories or have some good book recommendations, let me know!
+I am interested in linguistics and speak three non-programming languages. I also have a whole suite of geeky interests and hobbies including, TTRPGs (I am a forever DM), MTG, video games, and Warhammer 40k. I love fantasy and world building. If you want to swap dnd stories or have some good book recommendations, let me know!
 
 Here are some of my projects:
 
