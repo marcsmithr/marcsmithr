@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Marc Smith
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&size=30&color=            957DAD&center=true&vCenter=true&width=475&lines=Full+Stack+Web+Developer;Software+Development+Engineer;Marc+Smith" "alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&size=30&color=            957DAD&center=true&vCenter=true&width=475&lines=Devops+Engineer;Software+Development+Engineer;All+Around+Nerd;Marc+Smith" "alt="Typing SVG" /></a>
 </p>
 
 I am a Devops Enginer and an IT all-rounder.
