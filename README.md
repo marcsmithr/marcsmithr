@@ -4,9 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&size=30&color=            957DAD&center=true&vCenter=true&width=475&lines=Full+Stack+Web+Developer;Software+Development+Engineer;Marc+Smith" "alt="Typing SVG" /></a>
 </p>
 
-I am a full-stack software developer with experience with Javascript, Python, Node, Flask, React, Redux, Git, and more.
-
-I was previously working in the education field, with a strong passion for language, cross-cultural understanding, and effective learning strategies. I graduated from App Academy, an intensive software engineering program to pivot into an exciting career in technology.
+I am a Devops Enginer and an IT all-rounder.
 
 I am interested in linguistics and speak three non-programming languages. I also have a whole suite of geeky interests and hobbies including, TTRPGs (I am a forever DM), MTG, video games, and Warhammer 40k. I love fantasy and world building. If you want to swap dnd stories or have some good book recommendations, let me know!
 
@@ -42,7 +40,7 @@ Here are some of my projects:
 
     
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=marcsmithr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marcsmithr&theme=tokyonight&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marcsmithr&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcsmithr&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
