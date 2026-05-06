@@ -4,9 +4,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&pause=1000&size=30&color=            957DAD&center=true&vCenter=true&width=475&lines=Devops+Engineer;Software+Development+Engineer;All+Around+Nerd;Marc+Smith" "alt="Typing SVG" /></a>
 </p>
 
-I am a Devops Engineer and an IT all-rounder.
-
-I am interested in linguistics and speak three non-programming languages. I also have a whole suite of geeky interests and hobbies including, TTRPGs (I am a forever DM), MTG, video games, and Warhammer 40k. I love fantasy and world building. If you want to swap dnd stories or have some good book recommendations, let me know!
+DevOps Engineer with hands-on experience in AWS, automation, and infrastructure as code. AWS Certified Solutions Architect Associate skilled in building secure, scalable systems and improving CI/CD workflows. Demonstrated success in reducing operational costs, automating manual processes, and collaborating across teams to deliver efficient solutions.
 
 Here are some of my projects:
 
