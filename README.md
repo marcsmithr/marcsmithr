@@ -5,14 +5,6 @@
 </p>
 
 DevOps Engineer with hands-on experience in AWS, automation, and infrastructure as code. AWS Certified Solutions Architect Associate skilled in building secure, scalable systems and improving CI/CD workflows. Demonstrated success in reducing operational costs, automating manual processes, and collaborating across teams to deliver efficient solutions.
-
-Here are some of my projects:
-
-[Seddit](https://github.com/marcsmithr/Reddit-Clone)
-
-[Shout!](https://github.com/mikaelkuniko/shout_yelp_clone)
-
-[Airdnd](https://github.com/marcsmithr/AirBnb)
     
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marc-smith-240720224/)
